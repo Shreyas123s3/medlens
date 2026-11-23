@@ -1,0 +1,11 @@
+<resources>
+    <color name="navy">#143B45</color>
+    <color name="teal">#187A78</color>
+    <color name="mint">#E9F4EF</color>
+    <color name="paper">#FAF9F5</color>
+    <color name="ink">#19363A</color>
+    <color name="muted">#64777A</color>
+    <color name="white">#FFFFFF</color>
+    <color name="red">#B42318</color>
+    <color name="pale_red">#FEE4E2</color>
+</resources>
